@@ -1,0 +1,8 @@
+<suite thread-count="1" verbose="1" name="Calculator APP Automation">
+    <test name="Claculator APP Add,Subtraction,Multiplication and Series Test">
+        <classes>
+            <class name="TestRunner.CalcScreenTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
